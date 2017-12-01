@@ -1,0 +1,6 @@
+## Interface: 70500
+## Title: ChatForward
+## Notes: Testing shit for barny
+## Version: 1.0
+##SavedVariables: isTurnedOn
+ChatForward.lua
